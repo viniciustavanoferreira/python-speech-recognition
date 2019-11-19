@@ -1,9 +1,10 @@
 # Introduction
 A piece of software that helps in adding some fun regarding speech recognition.
 
-## Important libraries
+## Important libraries/ applications
 SpeechRecognition
 PyAudio
+qjackctl
 
 ## API
 Google API - recognize_google
