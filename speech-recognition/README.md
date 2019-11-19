@@ -1,9 +1,10 @@
 # Introduction
 A piece of software that helps in adding some fun regarding speech recognition.
 
-## Libraries
+## Libraries/ Applications
 SpeechRecognition
 PyAudio
+qjackctl
 
 ## Usage
 Using the terminal: python3 speech-recognition.py
